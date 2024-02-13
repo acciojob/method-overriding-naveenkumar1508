@@ -1,15 +1,10 @@
 package com.driver;
-class A{
-    String meth(){
-        return "Invoking method from class A";
-    }
-}
 
-class B extends A{
-    String meth(){
-        return "Invoking method from class A";
-    }
-}
+//public class Main {
+//}
+
+//package com.driver;
+        import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
